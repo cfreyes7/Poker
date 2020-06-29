@@ -1,0 +1,6 @@
+c:\users\fabian.reyes\source\repos\Poker\Poker\bin\Debug\Poker.exe.config
+c:\users\fabian.reyes\source\repos\Poker\Poker\bin\Debug\Poker.exe
+c:\users\fabian.reyes\source\repos\Poker\Poker\bin\Debug\Poker.pdb
+c:\users\fabian.reyes\source\repos\Poker\Poker\obj\Debug\Poker.exe
+c:\users\fabian.reyes\source\repos\Poker\Poker\obj\Debug\Poker.pdb
+c:\users\fabian.reyes\source\repos\Poker\Poker\obj\Debug\PokerStraight.csprojResolveAssemblyReference.cache
